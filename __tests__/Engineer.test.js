@@ -4,11 +4,6 @@ const Engineer = require("../lib/Engineer.js");
 test("creates an engineer object", () => {
     const engineer = new Engineer("Yogi", 90, "Yogi@gmail.com", "YogiHub");
 
-    expect(engineer.name).toEqual(String);
-    expect(engineer.id).toEqual(Number);
-    expect(engineer.email).toEqual(String);
-    expect(engineer.github).toEqual(String);
-    expect(engineer.role).toEqual(String);
 })
 
 test("gets engineer name", () => {

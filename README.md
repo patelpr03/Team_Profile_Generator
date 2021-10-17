@@ -11,7 +11,7 @@
 
 ## Description
 
-Team Profile Generator is to build a Node.js command-line application that takes in information about employees on a engineering team and generates an HTML webpage that displays summaries for each person.
+Team Profile Generator is to build a Node.js command-line application that takes in information about employees on a engineering team and generates an HTML webpage that displays infomation for person.
 
 The engineering team consists of a:
 * Manager
@@ -41,7 +41,7 @@ To run the application the user must have Node.js installed on their machine.
 * To begin the application run 'node app.js' in your terminal
 * After done codeing run Node index.js. 
 * Enter information about Manager Engineer and Inern 
-* Once completed, navigate to the 'dist' subdirectory to find your new team      profile under index.html 
+* Once completed, navigate to the 'dist' subdirectory to find your new team profile under index.html 
 
 
 ## Technologies
@@ -58,10 +58,13 @@ To run the application the user must have Node.js installed on their machine.
 
 ## Demonstration
 
-Example of HTML generated with the command line application.
+The HTML generated with the command line application.
+!["example shot"](assets/Screenshot.png)
 
+## Demonstration
+  https://watch.screencastify.com/v/iC5Bws9HrhwiaiMrXnjk
 ## Tests
-To run a test, use the command "npm run test *file name*" to test only one file, or "npm run test" to run all tests at once.
+To run a test, use the command "npm run test *file name*" to test only one file,<B> or "npm run test" to run all tests at once.
 
 ## Questions
 Have questions about this project?  
@@ -69,3 +72,4 @@ GitHub: https://github.com/patelpr03
 Email:  patelpr_03@yahoo.com
 
 ## Credits
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Priti-orange)

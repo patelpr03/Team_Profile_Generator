@@ -4,26 +4,25 @@ h1 {
 }
 
 .link {
-    color: #f1670a;
+    color: #0666e4;
 }
 
 .card {
     display: inline-block;
     height: 30%;
- 
     width: 300px;
     border-radius: 15px;
-    padding: 30px;
+    padding: 10px;
     margin: 3%;
     align-items: center;
     justify-content: center;
     color: rgb(219, 13, 13);
-    background-image: linear-gradient(to bottom, rgb(18, 5, 102), rgb(234, 241, 247));
+    background-image: linear-gradient(to bottom, rgb(37, 8, 223), rgb(234, 241, 247));
     text-align: left;
+    
 }
-
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(24, 8, 173, 0.2);
 }
 .jumbotron {
     background: rgb(248, 32, 3);
@@ -38,10 +37,5 @@ h1 {
     color: white;
     text-align: center;
   }
-  .employee-card {
-    width: 300px;
-    margin: 3%;
-    justify-content: center;
-    box-shadow: 2px 8px 8px 8px gray;
-  }
+  
   
